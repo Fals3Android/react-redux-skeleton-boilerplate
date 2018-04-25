@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-skeleton-boilerplate",
+  "version": "1.0.0",
+  "description": "A minimal react setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fals3Android/react-redux-skeleton-boilerplate.git"
+  },
+  "author": "David Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fals3Android/react-redux-skeleton-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Fals3Android/react-redux-skeleton-boilerplate#readme",
+  "dependencies": {}
+}
