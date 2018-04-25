@@ -19,4 +19,8 @@ or use your favorite node server module for things like hot reloading
 	 npm install nodemon -g
 ```
 
+then
+
+```js
 nodemon -w ./index.html
+```
